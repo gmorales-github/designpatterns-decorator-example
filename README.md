@@ -1,4 +1,4 @@
-# Designpatterns-decorator-example
+# Design patterns decorator example
 Corresponde a un ejemplo empleando el patrón de diseño "decorator"
 
 # Descripción
